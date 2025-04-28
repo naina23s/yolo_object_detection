@@ -46,7 +46,7 @@ bash
 Copy
 Edit
 .
-├── object_detection.py      # Main detection script
+├── yolo_project.py          # Main detection script
 ├── yolov8n.pt               # YOLOv8n model (auto-downloaded if not present)
 ├── detected_objects.jpg     # Saved image from detection (when 's' is pressed)
 └── README.md                # Project documentation
